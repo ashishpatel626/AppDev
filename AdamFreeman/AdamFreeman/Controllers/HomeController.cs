@@ -10,7 +10,18 @@ namespace AdamFreeman.Controllers
     {
       int hour = DateTime.Now.Hour;
       string viewModel = hour < 12 ? "Good Morning" : "Good Afternoon";
-      return View("MyView", viewModel);
+
+      return View("Index", viewModel);
+    }
+
+    public ViewResult Privacy()
+    {
+      return View("Privacy");
+    }
+
+    public ViewResult MyView()
+    {
+      return View("MyView");
     }
   }
 }
