@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tvuwIv21ePZJ7VlB2Hm7PMpjlQl++4EkO56difLGzqY=",
+  "Hash": "Lg3IsGMcF4O+y0IXVRkmFlQqZ58TrxLcDm42zRykFYU=",
   "Source": "PartyInvites.sln",
   "BasePath": "_content/PartyInvites.sln",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\apatel\\Documents\\GitHub\\AppDev\\PartyInvites.sln\\PartyInvites.sln\\wwwroot\\css\\style.css",
+      "SourceId": "PartyInvites.sln",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\apatel\\Documents\\GitHub\\AppDev\\PartyInvites.sln\\PartyInvites.sln\\wwwroot\\",
+      "BasePath": "_content/PartyInvites.sln",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "C:\\Users\\apatel\\Documents\\GitHub\\AppDev\\PartyInvites.sln\\PartyInvites.sln\\wwwroot\\favicon.ico",
