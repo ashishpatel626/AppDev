@@ -1,6 +1,2 @@
-﻿namespace MyProject
-{
-    public class GlobalUsings
-    {
-    }
-}
+﻿global using Microsoft.AspNetCore.Mvc;
+global using LanguageFeatures.Models;
